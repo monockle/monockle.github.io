@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://monockle.github.io/monockle.monockle
+Sitemap: https://monockle.github.io/app/monockle.monockle
+Sitemap: https://monockle.github.io/assets/monockle.monockle
+Sitemap: https://monockle.github.io/css/monockle.monockle
+Sitemap: https://monockle.github.io/includes/monockle.monockle
+Sitemap: https://monockle.github.io/item/monockle.monockle
+Sitemap: https://monockle.github.io/src/monockle.monockle
